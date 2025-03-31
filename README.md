@@ -4,8 +4,8 @@
 | Student name            | Student ID  |
 |       ---               |    ---      |
 | Simon Lindholm Pedersen | s154632     |
-| Christian Krogh Nielsen | #ID#        |
-| Johannes Lind           | #ID#        |
+| Christian Krogh Nielsen | s137071     |
+| Johannes Lind           | s146276     |
 
 ***
 
