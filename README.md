@@ -1,4 +1,4 @@
-** AI & Machine Learning (KAN-CINTO04003U) - Copenhagen Business School | Spring 2025**
+**AI & Machine Learning (KAN-CINTO04003U) - Copenhagen Business School | Spring 2025**
 
 ### Group Members
 | Student name            | Student ID  |
