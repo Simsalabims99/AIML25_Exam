@@ -1,0 +1,12 @@
+name: AIML25-Exam_Project
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pandas
+  - requests
+  - msal
+  - decouple
+  - torch

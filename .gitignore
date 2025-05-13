@@ -1,0 +1,27 @@
+# Files for git to ignore
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore all CSV files
+*.csv
+!top_1000_cleaned.csv
+
+# Ignore all models
+*.pkl
+
+# Ignore all cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+*.pkl
+*.tmp
+.idea
+.DS_Store
